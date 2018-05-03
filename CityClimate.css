@@ -1,0 +1,42 @@
+ body {
+          background: url("images/sky.jpg") no-repeat center center fixed; 
+          -webkit-background-size: cover;
+          -moz-background-size: cover;
+          -o-background-size: cover;
+          background-size: cover;
+      }
+      
+      .container {
+        text-align: Center;
+        margin:  150px auto; 
+        
+        font-size: 18px;
+        width: 600px;
+        background-color: #ADADAD;
+        opacity: 0.7;
+      }
+      
+      .container form {
+        padding: 10px;
+        
+      }
+      
+      .container input {
+        font-family: fantasy;
+        width: 80%;
+        height:40px;
+        margin: 5px;
+      }
+      
+      .container button {
+        font-family: fantasy;
+        margin: 5px;
+      }
+      
+      .container label {
+        font-family: fantasy;
+      }
+      
+      #result {
+       padding: 10px 10px; 
+      }
